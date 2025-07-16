@@ -31,6 +31,6 @@ Command-line interface design for user interaction.
 
 It serves as a practical example of writing clean, maintainable code while handling real-world edge cases, a valuable skill set for software development internship
 ------------------ MINI GUIDENESS ------------------
-# 1. Use functions for each operation
-# 2. Take user input using input()
-# 3. Loop until user chooses to exit
+***# 1. Use functions for each operation**
+**# 2. Take user input using input()
+**# 3. Loop until user chooses to exit****
